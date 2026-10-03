@@ -1,0 +1,14 @@
+{
+    "id": 58,
+    "firstName": "Guido",
+    "lastName": "Allen",
+    "email": "guido.allen58@example.com",
+    "username": "guido_allen56",
+    "age": 56,
+    "phone": "+1-555-5397",
+    "city": "Lisbon",
+    "country": "Kenya",
+    "role": "admin",
+    "isActive": true,
+    "registeredAt": "2026-04-25T14:36:00Z"
+  }
